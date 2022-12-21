@@ -98,7 +98,7 @@
     .row
       .col-lg-3
         figure
-          img(src="@/assets/curso/temas/Tema2/img5.svg", alt="Texto que describa la imagen")
+          img(src="@/assets/curso/temas/Tema2/img5.svg" width='200px' height='200')
 
       .col-lg-9
         TabsA.color-primario       
@@ -130,26 +130,26 @@
 
     .row.justify-content-around.align-items-centerrd.mt-3
       .col-10
-        .tarjeta.color-secundario.p-3
+        .tarjeta.bg10.p-3
           .row.justify-content-around.align-items-center
             
             .col-lg-12        
               .row  
                 .col-lg-1
                   figure
-                    img(src="@/assets/curso/temas/Tema1/img6.svg" )
+                    img(src="@/assets/curso/temas/Tema1/img6.svg" width='72px' height='72px' )
 
-                .col-lg-8
-                  p #[b Anexo 1 -]  Glosario de términos EDI
+                .col-lg-8.mt-3
+                  p.text-white #[b Anexo 1 -]  Glosario de términos EDI
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 1 - Ejemplo de ficha técnica.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 1 - Glosario de términos EDI copia.pdf')" target="_blank")
                     span Ver más
                     i.fas.fa-file-download 
     
     .row.justify-content-center.mt-5       
         .col-lg-9
           .cajon.color-primario.p-3            
-            p Veamos a continuación otro aspecto importante: la trazabilidad (Figura 1).
+            p Veamos a continuación otro aspecto importante: la trazabilidad #[b (Figura 1). ] 
 
 
 

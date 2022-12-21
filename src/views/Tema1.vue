@@ -82,14 +82,14 @@
               .row.mt-4
                 .col-lg-1
                   figure
-                    img(src="@/assets/curso/temas/Tema1/img5.png")
+                    img(src="@/assets/curso/temas/Tema1/img5.svg" width='34px' height='43px')
 
                 .col-lg-7
                   p #[b Anexo 3 -]  
                     | Tipos de cartas comerciales
                     
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 1 - Ejemplo de ficha técnica.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 3 - Tipos de carta comerciales copia.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download        
 
@@ -107,7 +107,7 @@
 
             .col-md-7
               b La comunicación verbal y no verbal
-              p La voz es una herramienta natural que nos permite comunicar información relevante en prácticamente todos los aspectos de la vida, y ello incluye los asuntos comerciales. Para lograr una acertada comunicación debemos tener en cuenta dos elementos:
+              p.mt-3 La voz es una herramienta natural que nos permite comunicar información relevante en prácticamente todos los aspectos de la vida, y ello incluye los asuntos comerciales. Para lograr una acertada comunicación debemos tener en cuenta dos elementos:
               
               
               ul.lista-ul--
@@ -148,20 +148,20 @@
 
       .row.justify-content-around.align-items-centerrd.mt-3
         .col-10
-          .tarjeta.color-secundario.p-3
+          .tarjeta.bg10.p-3
             .row.justify-content-around.align-items-center
               
               .col-lg-12        
                 .row  
                   .col-lg-1
                     figure
-                      img(src="@/assets/curso/temas/Tema1/img6.svg" )
+                      img(src="@/assets/curso/temas/Tema1/img6.svg" width='72px' height='72px' )
 
-                  .col-lg-8
-                    p #[b Anexo 2 -]  Implementación de comunicación telemática en compras
+                  .col-lg-8.mt-4
+                    p.text-white #[b Anexo 2 -]  Implementación de comunicación telemática en compras
 
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 1 - Ejemplo de ficha técnica.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 2 - Implementación de comunicación telemática en Compras copia.pdf')" target="_blank")
                       span Ver más
                       i.fas.fa-file-download 
 

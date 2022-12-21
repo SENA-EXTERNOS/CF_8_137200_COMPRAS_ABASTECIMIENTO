@@ -28,7 +28,7 @@
         p Es importante tener en cuenta las cantidades en el recibo de pedidos, ya que indican el número de insumos o productos que son entregados por parte del proveedor, en contraste con las órdenes de pedido emitidas a este. También aquí se realizan comprobaciones documentales y físicas de las condiciones de recepción y se generan informes de novedades que indican posibles condiciones de recibo. Este subproceso es vital dado que permite, desde un inicio, el orden en la gestión de almacenaje, y hace posible llevar a cabo las estrategias de almacenamiento (PEPS (Primero en Entrar Primero en Salir), UEPS (Últimas Entradas Primeras Salidas), promedio ponderado, etc.); además, ayuda a definir la distribución física de lo recibido en el almacén, los cuidados y los equipos que se deben utilizar, entre otros aspectos relevantes.
       .col-lg-2
         figure
-          img(src="@/assets/curso/temas/Tema3/img12.png", alt="Texto que describa la imagen")
+          img(src="@/assets/curso/temas/Tema3/img12.svg" width='207px' height='123px')
 
       Separador
     
@@ -41,7 +41,7 @@
       .col-12
         .bloque-texto-g.color-primario.coloryellow.tarjetaimgcar.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img.carimg(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/Tema3/img13.svg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/Tema3/img13.svg' )})`}"
           )
           .bloque-texto-g__texto3.p-4
             .col-11.col-lg-12
@@ -54,15 +54,15 @@
     .titulo-segundo.color-acento-contenido
       h2 4.3     Tiempos de entrega
 
-
-    .row 
-      .col-lg-5
-        figure
-          img(src="@/assets/curso/temas/Tema3/img14.png", alt="Texto que describa la imagen")
-
-      .col-lg-7
-        p Otro aspecto muy importante en la trazabilidad es la buena gestión de los tiempos de entrega, esto porque se debe cumplir el cronograma de actividades y tiempos de recibo. Tanto el cronograma de Gantt como el de Pert indican el tiempo, recursos y responsables necesarios para el proceso de recepción, además de los movimientos internos en la distribución física de la mercancía en el almacén, los equipos requeridos y el personal necesario, todo esto en un tiempo estimado y medido para que exista un flujo continuo de movimientos, sin tiempos muertos o inactividad en la plataforma de recepción.
-    
+    .bg13
+      .row 
+        .col-lg-5
+          figure
+            img(src="@/assets/curso/temas/Tema3/img14.png", alt="Texto que describa la imagen")     
+      
+        .col-lg-7
+          p Otro aspecto muy importante en la trazabilidad es la buena gestión de los tiempos de entrega, esto porque se debe cumplir el cronograma de actividades y tiempos de recibo. Tanto el cronograma de Gantt como el de Pert indican el tiempo, recursos y responsables necesarios para el proceso de recepción, además de los movimientos internos en la distribución física de la mercancía en el almacén, los equipos requeridos y el personal necesario, todo esto en un tiempo estimado y medido para que exista un flujo continuo de movimientos, sin tiempos muertos o inactividad en la plataforma de recepción.
+        
 
       Separador
     

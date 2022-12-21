@@ -7,21 +7,22 @@
         span 3
       h1 Trazabilidad
 
+    
     .row.justify-content-center.mt-4
       .col-lg-8.sm-8
         .titulo-sexto.color-secundario.mt-4
           b Figura 1. 
             p #[i Trazabilidad de un producto] 
-
-    .row.mt-4     
-      .col-lg-6
-        p La trazabilidad es todo el conjunto de acciones que permiten a empresas controlar la cadena de suministro de materias primas, insumos o productos mediante identificación, ubicación y trayectoria para su incorporación previa a su proceso productivo o distribución.
-        .col-lg-12
-          .cajon.color-primario.p-3            
-            p Por medio de la misma podemos saber desde la procedencia de la mercancía hasta su distribución mediante las diferentes cadenas de distribución, es por ello que las organizaciones pueden integrar distintos tipos de trazabilidad para gestionar su función de transformar o distribuir bienes aumentando su oportunidad de mejorar eficacia y optimizar procesos y de paso su eficiencia en la logística.
-      .col-lg-6
-        figure
-          img(src="@/assets/curso/temas/Tema2/img6.svg", alt="Texto que describa la imagen")
+    .bg11
+      .row.mt-4     
+        .col-lg-6
+          p La trazabilidad es todo el conjunto de acciones que permiten a empresas controlar la cadena de suministro de materias primas, insumos o productos mediante identificación, ubicación y trayectoria para su incorporación previa a su proceso productivo o distribución.
+          .col-lg-12
+            .cajon.color-primario.p-3            
+              p Por medio de la misma podemos saber desde la procedencia de la mercancía hasta su distribución mediante las diferentes cadenas de distribución, es por ello que las organizaciones pueden integrar distintos tipos de trazabilidad para gestionar su función de transformar o distribuir bienes aumentando su oportunidad de mejorar eficacia y optimizar procesos y de paso su eficiencia en la logística.
+        .col-lg-6
+          figure
+            img(src="@/assets/curso/temas/Tema2/img6.svg", alt="Texto que describa la imagen")
 
     .row
       .col-lg-12
@@ -95,6 +96,7 @@
     .titulo-segundo.color-acento-contenido
       h2 3.3    Tipos de trazabilidad 
 
+    
     .row.mt-2.justify-content-center.mt-5
       .col-12
         .bloque-texto-g.color-primario.coloryellow.tarjetaimgcar.p-3.p-sm-4.p-md-5
@@ -127,13 +129,17 @@
     .titulo-segundo.color-acento-contenido
       h2 3.4   #[i Software ] de trazabilidad 
 
-    .row
-      .col-lg-10
-        p Por último, en cuanto al #[i  software,] este debe ser capaz de registrar todo lo que sucede con el producto a lo largo de la cadena de suministro, permitir su localización en cualquier momento, registrar su origen, código, colores, etc., de manera que se pueda compartir esa información con todas las partes para la gestión de la cadena, recopilar y almacenar la información sin riesgo de pérdida, así como estructurar datos para uso estratégico y la toma de decisiones con base en el análisis de esa información.
+    .bg12
+      .row
+        .col-lg-9
+          p Por último, en cuanto al #[i  software,] este debe ser capaz de registrar todo lo que sucede con el producto a lo largo de la cadena de suministro, permitir su localización en cualquier momento, registrar su origen, código, colores, etc., de manera que se pueda compartir esa información con todas las partes para la gestión de la cadena, recopilar y almacenar la información sin riesgo de pérdida, así como estructurar datos para uso estratégico y la toma de decisiones con base en el análisis de esa información.
 
-      .col-lg-2
-        figure
-              img(src="@/assets/curso/temas/Tema3/img6.svg", alt="Texto que describa la imagen")
+        .col-lg-3
+          figure
+            img(src="@/assets/curso/temas/Tema3/img15.png", alt="Texto que describa la imagen")
+
+
+      
 
 
       .row.justify-content-center.mt-3  
