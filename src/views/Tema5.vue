@@ -6,17 +6,17 @@
       .titulo-principal__numero
         span 5
       h1 Indicadores
-
-    .row
-      .col-lg-2
-        figure
-          img(src="@/assets/curso/temas/Tema5/img1.png", alt="Texto que describa la imagen")
-      .col-lg-10
-        p La comunicación en el ámbito empresarial ha tomado cada vez más relevancia en las organizaciones, ya que el flujo de información activa debe ser más fluido, más claro y oportuno; por ello, las herramientas de comunicación son fundamentales a la hora de fomentar y soportar la colaboración entre equipos de trabajo, con el fin de simplificar esfuerzos, ser más asertivos en las metas o simplemente coordinar acciones comunes.
-        .row.justify-content-center
-          .col-lg-7
-            .cajon.color-primario.p-3            
-                p Entonces, ¿cuáles son los tipos de indicadores?
+    .bg14
+      .row
+        .col-lg-2
+          figure
+            img(src="@/assets/curso/temas/Tema5/img1.png", alt="Texto que describa la imagen")
+        .col-lg-10
+          p La comunicación en el ámbito empresarial ha tomado cada vez más relevancia en las organizaciones, ya que el flujo de información activa debe ser más fluido, más claro y oportuno; por ello, las herramientas de comunicación son fundamentales a la hora de fomentar y soportar la colaboración entre equipos de trabajo, con el fin de simplificar esfuerzos, ser más asertivos en las metas o simplemente coordinar acciones comunes.
+          .row.justify-content-center
+            .col-lg-7
+              .cajon.color-primario.p-3            
+                  p Entonces, ¿cuáles son los tipos de indicadores?
 
       Separador
     
