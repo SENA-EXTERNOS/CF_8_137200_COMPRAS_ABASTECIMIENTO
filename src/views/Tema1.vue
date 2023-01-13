@@ -133,7 +133,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-white.mb-0 #[b Anexo 2 -]  Implementación de comunicación telemática en compras
+                  p.text-white.mb-0 #[b Anexo 2 -]  Implementación de comunicación telemática en compras.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo2_Implementación_de_comunicación_telemática_en_Compras_CF8_Herramientas_de_comunicacion.pdf')" target="_blank")
                     span Descargar
