@@ -26,7 +26,7 @@
     .row.justify-content-start.mt-4
       .col-auto
         .titulo-sexto.color-secundario.mt-4
-          b Figura 1. 
+          b Figura 1  
             p.mb-0 #[i Componentes de la trazabilidad] 
 
     .row
@@ -48,7 +48,7 @@
     .row.justify-content-center.mt-4
       .col-lg-8.sm-8
         .titulo-sexto.color-secundario.mt-4
-          b Figura 3. 
+          b Figura 2 
             p #[i Beneficios que aporta la trazabilidad] 
 
     .row
@@ -72,7 +72,7 @@
     .row.justify-content-center.mt-4
       .col-lg-8.sm-8
         .titulo-sexto.color-secundario.mt-4
-          b Figura 4. 
+          b Figura 3 
             p #[i Tipos de trazabilidad] 
 
     .row.justify-content-center
