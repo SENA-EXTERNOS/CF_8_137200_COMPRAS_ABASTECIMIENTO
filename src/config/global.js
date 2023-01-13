@@ -150,7 +150,7 @@ export default {
         'Miranda, A., Núñez, O. y Trejo, M. (2022). Herramientas digitales que apoyan en la toma de decisiones de las MiPymes en México. <i>South Florida Journal of Development</i>, 3(1), p. 423-434.',
       tipo: 'Artículo',
       link:
-        'https://drive.google.com/drive/folders/11wcONK_xCve-_6XxR7RfcgrnS83eubzD',
+        'https://ojs.southfloridapublishing.com/ojs/index.php/jdev/article/view/1073',
     },
   ],
   glosario: [
