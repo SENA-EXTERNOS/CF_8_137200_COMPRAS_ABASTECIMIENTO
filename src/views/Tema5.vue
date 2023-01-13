@@ -18,39 +18,29 @@
 
     p.mb-5 En lo que respecta a los indicadores, puede existir un sinnúmero de estos. No obstante, suelen acopiarse en tres grandes grupos:
 
-    ImagenInfograficaB.color-acento-botones
+    ImagenInfografica.color-acento-botones
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/Tema5/img3.png', alt='')
             
 
-      div(x="9.3%" y="28.6%" tooltip="Ver más" numero="1")
-        .row.justify-content-center
-          .col-lg-6
-            h4 De eficacia: 
-            p Su función principal es medir si los procesos se realizan de la manera correcta.
+      .tarjeta.color-primario.p-3(x="9.3%" y="28.6%" numero="1")
+        h4 De eficacia: 
+        p.mb-0 Su función principal es medir si los procesos se realizan de la manera correcta.
 
 
-      div(x="89.5%" y="23.7%" tooltip="Ver más" numero="3")
-        .row.justify-content-center
-          .col-lg-6
-            h4 De efectividad: 
-            p Evalúan el impacto de la gestión en un determinado periodo, teniendo en cuenta las actividades realizadas y los recursos utilizados.
+      .tarjeta.color-primario.p-3(x="89.5%" y="23.7%" numero="3")
+        h4 De efectividad: 
+        p.mb-0 Evalúan el impacto de la gestión en un determinado periodo, teniendo en cuenta las actividades realizadas y los recursos utilizados.
 
-      div(x="9%" y="73%" tooltip="Ver más" numero="2")
-        .row.justify-content-center
-          .col-lg-6
-            h4 De eficiencia: 
-            p Miden si los procesos, además de hacerse de manera correcta, utilizan menos recursos.
+      .tarjeta.color-primario.p-3(x="9%" y="73%" numero="2")
+        h4 De eficiencia: 
+        p.mb-0 Miden si los procesos, además de hacerse de manera correcta, utilizan menos recursos.
 
-      div(x="92.1%" y="65.2%" tooltip="Ver más" numero="4")
-        .row.justify-content-center
-          .col-lg-9
-            .col-lg-7  
-              h4 Para la gestión de compras, entre los indicadores más usados están:
-            .col-lg-8
-              figure
-                img(src="@/assets/curso/temas/Tema5/img4.svg", alt="")
+      .tarjeta.color-primario.p-3(x="92.1%" y="65.2%" numero="4")
+        h4.mb-4 Para la gestión de compras, entre los indicadores más usados están:
+
+        img.img-a.img-t(src="@/assets/curso/temas/Tema5/1.svg", alt="")
 
     h4.my-5 Características y aplicación de los indicadores
 

@@ -74,7 +74,7 @@
                   | Tipos de cartas comerciales
                   
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 3 - Tipos de carta comerciales copia.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Tipos_de_carta_comerciales_CF8_Herramientas_de_comunicacion.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download 
           .col-md-5
@@ -122,7 +122,7 @@
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-9
         p.text-center Para ampliar la información sobre la comunicación telemática en la gestión de compras, puede dirigirse al #[b ANEXO 2 -]  
-          | Implementación de comunicación telemática en compras
+          | Implementación de comunicación telemática en compras.
           
     .row.justify-content-center.align-items-center     
       .col-lg-10    
@@ -135,7 +135,7 @@
                 .col.mb-3.mb-sm-0
                   p.text-white.mb-0 #[b Anexo 2 -]  Implementación de comunicación telemática en compras
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo 2 - Implementación de comunicación telemática en Compras copia.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo2_Implementación_de_comunicación_telemática_en_Compras_CF8_Herramientas_de_comunicacion.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

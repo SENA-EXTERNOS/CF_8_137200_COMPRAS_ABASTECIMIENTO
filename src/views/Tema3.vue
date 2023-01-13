@@ -119,7 +119,7 @@
           
           .tarjeta.color-primario.p-3(x="7.7%" y="92.7%" numero="3")
             p  #[b Sistema de gestión del almacén o WMS ] 
-              b #[i ((Warehouse Management System):  ):]
+              b #[i ((Warehouse Management System):]
               |  Optimiza todos los flujos de materiales que se producen en la bodega. Registra cada movimiento de un producto y notifica al ERP y al resto de sistemas con que se integre la organización.
           
           
