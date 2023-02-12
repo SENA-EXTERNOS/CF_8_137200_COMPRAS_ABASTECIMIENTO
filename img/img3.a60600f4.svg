@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="480" viewBox="0 0 1240 480">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f8ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_163261" data-name="Grupo 163261" transform="translate(-180 -2404.675)">
+    <g id="Grupo_145141" data-name="Grupo 145141" transform="translate(0 1263.675)">
+      <g id="Grupo_141999" data-name="Grupo 141999" transform="translate(180 1141)">
+        <g id="Grupo_141998" data-name="Grupo 141998">
+          <rect id="Rectángulo_41974" data-name="Rectángulo 41974" width="480" height="295" transform="translate(0 480) rotate(-90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <rect id="Rectángulo_41975" data-name="Rectángulo 41975" width="480" height="295" transform="translate(1240) rotate(90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <g id="Grupo_141785" data-name="Grupo 141785" transform="translate(0 0.161)">
+            <path id="Trazado_114975" data-name="Trazado 114975" d="M812.618,386.057h-43.4l32.891,69.9-32.891,69.9h43.4l32.891-69.9Z" transform="translate(-769.221 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976" data-name="Trazado 114976" d="M828.9,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-704.578 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977" data-name="Trazado 114977" d="M845.189,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978" data-name="Trazado 114978" d="M861.475,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-575.292 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114979" data-name="Trazado 114979" d="M877.76,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-510.649 -386.058)" fill="#f0f8ff"/>
+          </g>
+          <g id="Grupo_141786" data-name="Grupo 141786" transform="translate(840 340.034)">
+            <path id="Trazado_114975-2" data-name="Trazado 114975" d="M802.111,525.862h43.4l-32.891-69.9,32.891-69.9h-43.4l-32.891,69.9Z" transform="translate(-445.509 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976-2" data-name="Trazado 114976" d="M818.4,525.862h43.4l-32.89-69.9,32.89-69.9H818.4l-32.89,69.9Z" transform="translate(-542.722 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977-2" data-name="Trazado 114977" d="M834.681,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978-2" data-name="Trazado 114978" d="M850.967,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-737.149 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114979-2" data-name="Trazado 114979" d="M867.251,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-834.362 -386.057)" fill="#f0f8ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_145375" data-name="Grupo 145375" transform="translate(14346 4257.574)">
+      <rect id="Rectángulo_43248" data-name="Rectángulo 43248" width="685.34" height="86.733" rx="6" transform="translate(-13821.34 -1826.017)" fill="#1b3f5e"/>
+      <text id="Ayuda_a_identificar_debilidades_en_las_cadenas_de_distribución_puntos_críticos_." data-name="Ayuda a identificar debilidades en las cadenas de distribución (puntos críticos)." transform="translate(-13790.968 -1791.999)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Ayuda a identificar debilidades en las cadenas de distribución (puntos críticos).</tspan></text>
+      <rect id="Rectángulo_43249" data-name="Rectángulo 43249" width="148.475" height="98.699" rx="6" transform="translate(-13956 -1831.999)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Contexto_empresa" data-name="Contexto
+empresa" transform="translate(-13882.5 -1786.999)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-37.635" y="0">Contexto</tspan><tspan x="-36.295" y="22">empresa</tspan></text>
+      <rect id="Rectángulo_43250" data-name="Rectángulo 43250" width="685.34" height="86.733" rx="6" transform="translate(-13821.34 -1712.685)" fill="#1b3f5e"/>
+      <text id="Se_generan_mejores_condiciones_de_intercambio_con_los_compradores." data-name="Se generan mejores condiciones de intercambio con los compradores." transform="translate(-13790.968 -1678.649)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se generan mejores condiciones de intercambio con los compradores.</tspan></text>
+      <rect id="Rectángulo_43251" data-name="Rectángulo 43251" width="148.475" height="98.699" rx="6" transform="translate(-13956 -1718.499)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Contexto_proveedor" data-name="Contexto
+proveedor" transform="translate(-13882.5 -1673.999)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-37.635" y="0">Contexto</tspan><tspan x="-42.231" y="22">proveedor</tspan></text>
+      <rect id="Rectángulo_43252" data-name="Rectángulo 43252" width="685.34" height="86.733" rx="6" transform="translate(-13821.34 -1599.354)" fill="#1b3f5e"/>
+      <text id="Se_mejora_la_calidad_de_los_productos_disponibles_para_el_consumidor." data-name="Se mejora la calidad de los productos disponibles para el consumidor." transform="translate(-13790.968 -1565.487)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se mejora la calidad de los productos disponibles para el consumidor.</tspan></text>
+      <rect id="Rectángulo_43253" data-name="Rectángulo 43253" width="148.475" height="98.699" rx="6" transform="translate(-13956 -1605.499)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Contexto_consumidor" data-name="Contexto
+consumidor" transform="translate(-13882.5 -1559.999)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-37.635" y="0">Contexto</tspan><tspan x="-49.565" y="21">consumidor</tspan></text>
+      <rect id="Rectángulo_43254" data-name="Rectángulo 43254" width="685.34" height="86.733" rx="6" transform="translate(-13821.34 -1486.021)" fill="#1b3f5e"/>
+      <text id="Los_sistemas_de_trazabilidad_son_obligatorios_en_todas_las_industrias." data-name="Los sistemas de trazabilidad son obligatorios en todas las industrias." transform="translate(-13790.968 -1452.999)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Los sistemas de trazabilidad son obligatorios en todas las industrias.</tspan></text>
+      <rect id="Rectángulo_43255" data-name="Rectángulo 43255" width="148.475" height="98.699" rx="6" transform="translate(-13956 -1492.499)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Contexto_legal" data-name="Contexto
+legal" transform="translate(-13882.5 -1447.999)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-37.635" y="0">Contexto</tspan><tspan x="-20.248" y="22">legal</tspan></text>
+    </g>
+  </g>
+</svg>
