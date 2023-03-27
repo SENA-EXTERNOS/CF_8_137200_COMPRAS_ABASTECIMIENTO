@@ -112,7 +112,7 @@
                 .col.mb-3.mb-sm-0
                   p.text-white.mb-0 #[b Anexo 3 -]  Glosario de términos EDI. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1_Glosario_de_terminos_EDI_CF8_Herramientas_de_comunicacion.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_3-Glosario_de_términos_EDI.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 </template>
