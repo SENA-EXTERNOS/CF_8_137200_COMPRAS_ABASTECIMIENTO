@@ -162,7 +162,7 @@ export default {
     {
       termino: 'Cadenas de distribución',
       significado:
-        'Procesos que se realizan a partir del momento en el cual un producto ha sido fabricado y hasta el momento en el que termina en las manos del cliente.',
+        'procesos que se realizan a partir del momento en el cual un producto ha sido fabricado y hasta el momento en el que termina en las manos del cliente.',
     },
     {
       termino: 'Cadena de suministro',
@@ -289,6 +289,8 @@ export default {
     {
       referencia:
         'Gómez, J. (2014).<i> Gestión logística y comercial</i>. McGraw-Hill.',
+      link:
+        'https://valparaiso.redfuturotecnico.cl/wp-content/uploads/2020/06/Gestion_logistica_y_comercial.pdf',
     },
     {
       referencia:
@@ -303,10 +305,14 @@ export default {
     {
       referencia:
         'Mora, L. (2012). <i>Indicadores de la gestión logística</i>. Ecoe Ediciones.',
+      link:
+        'https://www.ecoeediciones.com/wp-content/uploads/2015/09/Indicadores-de-la-gestion-logistica.pdf',
     },
     {
       referencia:
         'Mora, L. (2011). <i>Diccionario de Supply Chain Management: terminología de la cadena de abastecimientos</i>. Ecoe Ediciones.',
+      link:
+        'https://www.ecoeediciones.mx/wp-content/uploads/2015/08/Diccionario-de-Supply-chain.pdf',
     },
     {
       referencia:
@@ -314,8 +320,9 @@ export default {
     },
     {
       referencia:
-        'CChopra, S. y Meindl P. (2017). <i>Administración de la cadena de suministro</i>. Pearson Educación.',
-      link: 'https://bit.ly/3DBiq4k.',
+        'Chopra, S. y Meindl P. (2017). <i>Administración de la cadena de suministro</i>. Pearson Educación.',
+      link:
+        'https://gc.scalahed.com/recursos/files/r161r/w24567w/Sunil_Chopral.pdf',
     },
   ],
   creditos: {

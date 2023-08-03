@@ -59,15 +59,13 @@
 
     h4.my-5 Tipos de trazabilidad 
     
-    .row.mt-2.justify-content-center.mt-5
-      .col-12
-        .bloque-texto-g.color-primario.coloryellow.tarjetaimgcar.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.carimg(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/Tema3/img4.svg')})`}"
-          )
-          .bloque-texto-g__texto3.p-4
-            .col-11.col-lg-12
-              p.text-small Los tipos de trazabilidad que se pretendan implementar en las organizaciones dependen estrictamente de lo complicado que sea su proceso productivo o la cadena de distribución que use para satisfacer a sus clientes, por ello, existen tres tipos de trazabilidad.
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/Tema3/img4.svg')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Los tipos de trazabilidad que se pretendan implementar en las organizaciones dependen estrictamente de lo complicado que sea su proceso productivo o la cadena de distribución que use para satisfacer a sus clientes, por ello, existen tres tipos de trazabilidad. 
+
     p.mt-4 Conózcalos en el siguiente esquema:
     .row.justify-content-center.mt-4
       .col-lg-8.sm-8
