@@ -79,17 +79,17 @@
             .row           
               .col-xl-11
                 
-                p “(Instituto Nacional Estadounidense de Estándares) administra y coordina el sistema voluntario de evaluación de la conformidad y normalización de los EE. UU. ANSI ASC X12 es la designación oficial del organismo nacional de estándares de EE. UU. Para el desarrollo y mantenimiento de estándares de intercambio electrónico de datos (EDI). ASCII X12 ha sido acreditado por ANSI desde 1979”. (DataTrans, 2020, párr. 1).
+                p “(Instituto Nacional Estadounidense de Estándares) administra y coordina el sistema voluntario de evaluación de la conformidad y normalización de los EE. UU. ANSI ASC X12 es la designación oficial del organismo nacional de estándares de EE. UU. Para el desarrollo y mantenimiento de estándares de intercambio electrónico de datos (EDI). ASCII X12 ha sido acreditado por ANSI desde 1979” (DataTrans, 2020, párr. 1).
 
           .tarjeta.color-tarjetacliente.p-4(titulo="ADN")          
             .row                     
               .col-xl-11       
-                p “(Aviso de envío anticipado o 856) es una notificación electrónica con formato EDI de entregas pendientes. El objetivo del ASN es proporcionar información a las operaciones de recepción del destino antes de la entrega”. (DataTrans, 2020, párr. 5).
+                p “(Aviso de envío anticipado o 856) es una notificación electrónica con formato EDI de entregas pendientes. El objetivo del ASN es proporcionar información a las operaciones de recepción del destino antes de la entrega” (DataTrans, 2020, párr. 5).
           
           .tarjeta.color-tarjetacliente.p-4(titulo="B2B")          
             .row                     
               .col-xl-11           
-                p #[i “(Business-to-Business):]  transacciones de comercio electrónico entre empresas, a diferencia de las que se realizan entre empresas y otros grupos, como los consumidores.” (DataTrans, 2020, párr. 6).
+                p #[i “(Business-to-Business):]  transacciones de comercio electrónico entre empresas, a diferencia de las que se realizan entre empresas y otros grupos, como los consumidores” (DataTrans, 2020, párr. 6).
 
           .tarjeta.color-tarjetacliente.p-4(titulo="CRM")          
             .row                     

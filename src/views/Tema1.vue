@@ -16,21 +16,32 @@
 
         p Exploremos los elementos teóricos que se muestran en el siguiente esquema:
 
-      
-    .row.justify-content-center.align-items-center.my-lg-4.mt-5
-      .col-lg-8
-        ImagenInfograficaB.color-acento-botones
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/temas/Tema1/img2.svg', alt='')
+    ImagenInfografica.color-primario
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/Tema1/img2.svg', alt='Texto que describa la imagen')
+    
+      .tarjeta.color-acento-botones.p-3(x="54.1%" y="44%" numero="1")
+          h5 Recepción del cliente
+          p En un mundo cada vez más digitalizado, tanto las empresas proveedoras como los clientes utilizan canales más expeditos y ágiles como los medios electrónicos. Sin embargo, también existen organizaciones que aún llevan registros físicos de muchas comunicaciones debido a la importancia que tiene para ellas el soporte documental; un ejemplo de esto son las empresas del sector público donde se requiere trazabilidad y conservación de documentos por medio de tablas de retención. Este es un instrumento que indica la trazabilidad de documentos y registros y tiempos que se deben almacenar, ya sea en archivo de gestión, archivo central o archivo histórico.
+    
+      .tarjeta.color-acento-botones.p-3(x="85.4%" y="52%" numero="2")
+          p No obstante, en las empresas de naturaleza privada, se utilizan cada vez más, herramientas digitales para la gestión documental, porque agilizan la labor de la distribución, por medio de correos institucionales. Otra de las ventajas se encuentra en el uso de nubes digitales para almacenar documentos y registros, con la facilidad de tenerlos disponibles en cualquier lugar, a cualquier hora, sin ocupar espacio físico, y sin necesidad de imprimirlos, lo que ahorra en recursos como el papel. Con el paso de los años las comunicaciones tradicionales han venido sucumbiendo a la presión de la era digital y sus avances tecnológicos.
+
+    //- .row.justify-content-center.align-items-center.my-lg-4.mt-5
+    //-   .col-lg-8
+    //-     ImagenInfograficaB.color-acento-botones
+    //-       template(v-slot:imagen)
+    //-         figure
+    //-           img(src='@/assets/curso/temas/Tema1/img2.svg', alt='')
               
 
-          div(x="54%" y="44%" tooltip="Ver más" numero="1")
-            h5 Recepción del cliente
-            p En un mundo cada vez más digitalizado, tanto las empresas proveedoras como los clientes utilizan canales más expeditos y ágiles como los medios electrónicos. Sin embargo, también existen organizaciones que aún llevan registros físicos de muchas comunicaciones debido a la importancia que tiene para ellas el soporte documental; un ejemplo de esto son las empresas del sector público donde se requiere trazabilidad y conservación de documentos por medio de tablas de retención. Este es un instrumento que indica la trazabilidad de documentos y registros y tiempos que se deben almacenar, ya sea en archivo de gestión, archivo central o archivo histórico.
+    //-       div(x="54%" y="44%"  numero="1")
+    //-         h5 Recepción del cliente
+    //-         p En un mundo cada vez más digitalizado, tanto las empresas proveedoras como los clientes utilizan canales más expeditos y ágiles como los medios electrónicos. Sin embargo, también existen organizaciones que aún llevan registros físicos de muchas comunicaciones debido a la importancia que tiene para ellas el soporte documental; un ejemplo de esto son las empresas del sector público donde se requiere trazabilidad y conservación de documentos por medio de tablas de retención. Este es un instrumento que indica la trazabilidad de documentos y registros y tiempos que se deben almacenar, ya sea en archivo de gestión, archivo central o archivo histórico.
           
-          div(x="85%" y="52%" tooltip="Ver más" numero="2")
-            .h5.mb-2 No obstante, en las empresas de naturaleza privada, se utilizan cada vez más, herramientas digitales para la gestión documental, porque agilizan la labor de la distribución, por medio de correos institucionales. Otra de las ventajas se encuentra en el uso de nubes digitales para almacenar documentos y registros, con la facilidad de tenerlos disponibles en cualquier lugar, a cualquier hora, sin ocupar espacio físico, y sin necesidad de imprimirlos, lo que ahorra en recursos como el papel. Con el paso de los años las comunicaciones tradicionales han venido sucumbiendo a la presión de la era digital y sus avances tecnológicos.
+    //-       div(x="85%" y="52%" numero="2")
+    //-         p No obstante, en las empresas de naturaleza privada, se utilizan cada vez más, herramientas digitales para la gestión documental, porque agilizan la labor de la distribución, por medio de correos institucionales. Otra de las ventajas se encuentra en el uso de nubes digitales para almacenar documentos y registros, con la facilidad de tenerlos disponibles en cualquier lugar, a cualquier hora, sin ocupar espacio físico, y sin necesidad de imprimirlos, lo que ahorra en recursos como el papel. Con el paso de los años las comunicaciones tradicionales han venido sucumbiendo a la presión de la era digital y sus avances tecnológicos.
           
 
     h4.my-5 Tipos de herramientas de comunicación
@@ -167,7 +178,7 @@
             figure
               img(src='@/assets/curso/temas/Tema1/img8.svg', alt='')
           
-        h5.text-center Información acerca de buenas prácticas en el negocio. 
+        h5.text-center Información acerca de buenas prácticas en el negocio
         p.text-center.mt-5 Se pueden compartir experiencias que generen métodos de mejoramiento y protección en la práctica del negocio.
 
 
@@ -187,7 +198,7 @@
             figure
               img(src='@/assets/curso/temas/Tema1/img10.svg', alt='')
           
-        h5.text-center Información que incrementa la relación con las demás empresas y aumenta el clúster productivo. 
+        h5.text-center Información que incrementa la relación con las demás empresas y aumenta el clúster productivo
         p.text-center.mt-4 Se aumentan las relaciones con empresas con las cuales se comparten intereses comunes en cuanto a producción, además de las alianzas estratégicas para penetrar un mercado foráneo.
 
       

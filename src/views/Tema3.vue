@@ -13,7 +13,7 @@
           p La trazabilidad es todo el conjunto de acciones que permiten a empresas controlar la cadena de suministro de materias primas, insumos o productos mediante identificación, ubicación y trayectoria para su incorporación previa a su proceso productivo o distribución.
           .col-lg-12
             .cajon.color-primario.p-3            
-              p Por medio de la misma podemos saber desde la procedencia de la mercancía hasta su distribución mediante las diferentes cadenas de distribución, es por ello que las organizaciones pueden integrar distintos tipos de trazabilidad para gestionar su función de transformar o distribuir bienes aumentando su oportunidad de mejorar eficacia y optimizar procesos y de paso su eficiencia en la logística.
+              p Por medio de la misma podemos saber desde la procedencia de la mercancía hasta su repartición mediante las diferentes cadenas de distribución, es por ello que las organizaciones pueden integrar distintos tipos de trazabilidad para gestionar su función de transformar o distribuir bienes aumentando su oportunidad de mejorar eficacia y optimizar procesos y de paso su eficiencia en la logística.
         .col-lg-6
           figure
             img(src="@/assets/curso/temas/Tema2/img6.svg", alt="")

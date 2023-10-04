@@ -1,23 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="822.5" height="423.667" viewBox="0 0 822.5 423.667">
-  <g id="Grupo_163264" data-name="Grupo 163264" transform="translate(-388.5 -3554.9)">
-    <g id="Grupo_163263" data-name="Grupo 163263">
-      <g id="Grupo_145377" data-name="Grupo 145377" transform="translate(14180.968 4223.916)">
-        <rect id="Rectángulo_43261" data-name="Rectángulo 43261" width="685.34" height="118.701" rx="6" transform="translate(-13656.308 -661.516)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
-        <text id="Hace_control_mediante_la_identificación_y_registro_de_todo_producto_o_mercancía_que_sale_de_las_bodegas_de_la_empresa_hasta_que_sea_llevada_donde_es_requerida_por_el_cliente." data-name="Hace control mediante la identificación y registro de todo producto o mercancía que sale de las bodegas de la empresa, hasta que sea llevada donde es requerida por el cliente." transform="translate(-13625.937 -622.165)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Hace control mediante la identificación y registro de todo producto o mercancía que sale </tspan><tspan x="0" y="38">de las bodegas de la empresa, hasta que sea llevada donde es requerida por el cliente.</tspan></text>
-        <rect id="Rectángulo_43258" data-name="Rectángulo 43258" width="148.475" height="130.667" rx="7" transform="translate(-13790.968 -667.516)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
-        <text id="Trazabilidad_ascendente" data-name="Trazabilidad
-ascendente" transform="translate(-13717.468 -607.016)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-51.638" y="0">Trazabilidad</tspan><tspan x="-48.392" y="22">ascendente</tspan></text>
-        <rect id="Rectángulo_43262" data-name="Rectángulo 43262" width="685.34" height="118.701" rx="6" transform="translate(-13656.308 -516.516)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
-        <text id="Identificar_la_procedencia_de_todas_las_materias_primas_insumos_y_productos_que_llegan_a_la_organización_además_de_los_datos_de_sus_proveedores_qué_tipo_de_mercancía_se_envió_qué_referencias_cantidades_método_de_transporte_se_utilizó_entre_otra_info" data-name="Identificar la procedencia de todas las materias primas, insumos y productos que llegan a la organización, además de los datos de sus proveedores, qué tipo de mercancía se envió, qué referencias, cantidades, método de transporte se utilizó, entre otra info" transform="translate(-13625.937 -492.516)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Identificar la procedencia de todas las materias primas, insumos y productos que llegan </tspan><tspan x="0" y="38">a la organización, además de los datos de sus proveedores, qué tipo de mercancía se </tspan><tspan x="0" y="59">envió, qué referencias, cantidades, método de transporte se utilizó, entre otra </tspan><tspan x="0" y="80">información útil.</tspan></text>
-        <rect id="Rectángulo_43259" data-name="Rectángulo 43259" width="148.475" height="130.667" rx="7" transform="translate(-13790.968 -522.516)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
-        <text id="La_Trazabilidad_descendente" data-name="La Trazabilidad
-descendente" transform="translate(-13717.468 -456.016)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-63.8" y="0">La Trazabilidad</tspan><tspan x="-53.664" y="22">descendente</tspan></text>
-        <rect id="Rectángulo_43263" data-name="Rectángulo 43263" width="685.34" height="118.701" rx="6" transform="translate(-13656.308 -371.516)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
-        <text id="Permite_hacerle_seguimiento_a_la_mercancía_dentro_de_la_empresa._Su_función_es_registrar_información_sobre_todos_los_procesos_internos_por_los_que_pasa_el_producto_desde_su_manipulación_maquinaria_implementada_temperatura_lote_entre_otros_datos_releva" data-name="Permite hacerle seguimiento a la mercancía dentro de la empresa. Su función es registrar información sobre todos los procesos internos por los que pasa el producto, desde su manipulación, maquinaria implementada, temperatura, lote, entre otros datos releva" transform="translate(-13625.937 -353.165)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Permite hacerle seguimiento a la mercancía dentro de la empresa. Su función es </tspan><tspan x="0" y="38">registrar información sobre todos los procesos internos por los que pasa el producto, </tspan><tspan x="0" y="59">desde su manipulación, maquinaria implementada, temperatura, lote, entre otros datos </tspan><tspan x="0" y="80">relevantes. </tspan></text>
-        <rect id="Rectángulo_43260" data-name="Rectángulo 43260" width="148.475" height="130.667" rx="7" transform="translate(-13790.968 -377.516)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
-        <text id="La_trazabilidad_interna" data-name="La trazabilidad
-interna" transform="translate(-13717.468 -317.016)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-61.823" y="0">La trazabilidad</tspan><tspan x="-29.453" y="22">interna</tspan></text>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 822.5 423.7" style="enable-background:new 0 0 822.5 423.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0F8FF;stroke:#1B3F5E;stroke-width:2;}
+	.st1{fill:#1B3F5E;}
+	.st2{font-family:'Roboto-Regular';}
+	.st3{font-size:16px;}
+	.st4{fill:#1B3F5E;stroke:#FFFCDD;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'Roboto-Bold';}
+	.st7{font-size:18px;}
+</style>
+<g id="Grupo_163264" transform="translate(-388.5 -3554.9)">
+	<g id="Grupo_163263">
+		<g id="Grupo_145377" transform="translate(14180.968 4223.916)">
+			<path id="Rectángulo_43261" class="st0" d="M-13650.3-661.5h673.3c3.3,0,6,2.7,6,6v106.7c0,3.3-2.7,6-6,6h-673.3
+				c-3.3,0-6-2.7-6-6v-106.7C-13656.3-658.8-13653.6-661.5-13650.3-661.5z"/>
+			<text transform="matrix(1 0 0 1 -13625.9365 -605.165)" class="st1 st2 st3">Hace control mediante la identificación y registro de todo producto o mercancía que sale </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -584.165)" class="st1 st2 st3">de las bodegas de la empresa, hasta que sea llevada donde es requerida por el cliente.</text>
+			<path id="Rectángulo_43258" class="st4" d="M-13784-667.5h134.5c3.9,0,7,3.1,7,7v116.7c0,3.9-3.1,7-7,7h-134.5c-3.9,0-7-3.1-7-7
+				v-116.7C-13791-664.4-13787.8-667.5-13784-667.5z"/>
+			<text transform="matrix(1 0 0 1 -13769.1055 -607.016)" class="st5 st6 st7">Trazabilidad</text>
+			<text transform="matrix(1 0 0 1 -13765.8594 -585.016)" class="st5 st6 st7">ascendente</text>
+			<path id="Rectángulo_43262" class="st0" d="M-13650.3-516.5h673.3c3.3,0,6,2.7,6,6v106.7c0,3.3-2.7,6-6,6h-673.3
+				c-3.3,0-6-2.7-6-6v-106.7C-13656.3-513.8-13653.6-516.5-13650.3-516.5z"/>
+			<text transform="matrix(1 0 0 1 -13625.9365 -475.516)" class="st1 st2 st3">Identificar la procedencia de todas las materias primas, insumos y productos que llegan </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -454.516)" class="st1 st2 st3">a la organización, además de los datos de sus proveedores, qué tipo de mercancía se </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -433.516)" class="st1 st2 st3">envió, qué referencias, cantidades, método de transporte se utilizó, entre otra </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -412.516)" class="st1 st2 st3">información útil.</text>
+			<path id="Rectángulo_43259" class="st4" d="M-13784-522.5h134.5c3.9,0,7,3.1,7,7v116.7c0,3.9-3.1,7-7,7h-134.5c-3.9,0-7-3.1-7-7
+				v-116.7C-13791-519.4-13787.8-522.5-13784-522.5z"/>
+			<text transform="matrix(1 0 0 1 -13781.2676 -456.016)" class="st5 st6 st7">La trazabilidad</text>
+			<text transform="matrix(1 0 0 1 -13771.1318 -434.016)" class="st5 st6 st7">descendente</text>
+			<path id="Rectángulo_43263" class="st0" d="M-13650.3-371.5h673.3c3.3,0,6,2.7,6,6v106.7c0,3.3-2.7,6-6,6h-673.3
+				c-3.3,0-6-2.7-6-6v-106.7C-13656.3-368.8-13653.6-371.5-13650.3-371.5z"/>
+			<text transform="matrix(1 0 0 1 -13625.9365 -336.165)" class="st1 st2 st3">Permite hacerle seguimiento a la mercancía dentro de la empresa. Su función es </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -315.165)" class="st1 st2 st3">registrar información sobre todos los procesos internos por los que pasa el producto, </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -294.165)" class="st1 st2 st3">desde su manipulación, maquinaria implementada, temperatura, lote, entre otros datos </text>
+			<text transform="matrix(1 0 0 1 -13625.9365 -273.165)" class="st1 st2 st3">relevantes.</text>
+			<path id="Rectángulo_43260" class="st4" d="M-13784-377.5h134.5c3.9,0,7,3.1,7,7v116.7c0,3.9-3.1,7-7,7h-134.5c-3.9,0-7-3.1-7-7
+				v-116.7C-13791-374.4-13787.8-377.5-13784-377.5z"/>
+			<text transform="matrix(1 0 0 1 -13779.291 -317.016)" class="st5 st6 st7">La trazabilidad</text>
+			<text transform="matrix(1 0 0 1 -13746.9209 -295.016)" class="st5 st6 st7">interna</text>
+		</g>
+	</g>
+</g>
 </svg>
