@@ -103,7 +103,7 @@
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/Tema3/img10.png', alt='')
+              img(src='@/assets/curso/temas/Tema3/img10.svg', alt='')
               
 
           .tarjeta.color-primario.p-3(x="7.7%" y="6.6%" numero="1")
