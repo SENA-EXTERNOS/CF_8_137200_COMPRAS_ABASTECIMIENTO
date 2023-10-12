@@ -135,7 +135,7 @@ export default {
         'Fonseca, C. (2011). <i>Mejoramiento de los procesos de planificación de obras a partir de la introducción de conceptos de gestión logística soportados en TIC, para el sector de la construcción en Colombia</i>. [Tesis de maestría]. Universidad EAFIT.',
       tipo: 'Tesis de maestría',
       link:
-        'https://repository.eafit.edu.co/bitstream/handle/10784/183/CristianGuillermo_FonsecaArias_2011.pdf?sequence=1&isAllowed=y',
+        'https://repository.eafit.edu.co/bitstream/handle/10784/183/CristianGuillermo_FonsecaArias_2011.pdf',
     },
     {
       tema: 'Herramientas de comunicación interempresarial',

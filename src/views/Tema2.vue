@@ -63,7 +63,7 @@
         figure
           img(src="@/assets/curso/temas/Tema2/1.png", alt="")
 
-    h4.my-5 Glosario, en inglés, de términos claves
+    h4.my-5 Glosario en inglés de términos claves
 
     p.mb-5 Estos términos son los que corresponden al vocabulario de uso común y utilizado, de manera casi general, en los sistemas EDI. Tienen relevancia para su uso y gestión en las organizaciones:
 
