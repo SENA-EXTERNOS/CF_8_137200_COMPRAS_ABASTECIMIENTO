@@ -290,7 +290,7 @@ export default {
       referencia:
         'Gómez, J. (2014).<i> Gestión logística y comercial</i>. McGraw-Hill.',
       link:
-        'https://valparaiso.redfuturotecnico.cl/wp-content/uploads/2020/06/Gestion_logistica_y_comercial.pdf',
+        'https://studylib.es/doc/2442025/gestion-logistica-y-comercial-2013-mcgraw-hill-grado-supe%E2%80%A6',
     },
     {
       referencia:
